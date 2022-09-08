@@ -1,0 +1,18 @@
+table th {
+    width: 80px;
+    background-color: rgb(153, 204, 255);
+}
+table td {
+    text-align: center;
+    height: 80px;
+    
+}
+
+body{
+    display: grid ;
+place-items: center;
+min-height: 100vh;
+}
+.dor{
+    background-color: rgb(204, 204, 255);
+}
